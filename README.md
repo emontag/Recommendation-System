@@ -13,3 +13,5 @@ dependecies:
 3) pandas
 4) scipy
 5) pytorch
+
+Note: Was run on Windows 10 not any other OS. Not completely platform compatible 
